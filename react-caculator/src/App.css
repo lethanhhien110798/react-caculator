@@ -1,0 +1,155 @@
+ .View #hero{
+   width: 100%;
+   height: 840px;
+   padding-top: 300px;
+   background-image: url("https://hinhnendep.xyz/wp-content/uploads/2017/11/hinh_nen_ngay_nang_2.jpg")
+   
+ }
+ .Caculator{
+    width: 295px;
+    height: 500px;
+    background-color: #000000;
+    margin-left: 500px;
+    border-radius: 7px;
+}
+.Caculator-display{
+    width: 288px;
+    height: 129px;
+    background-color: #000000;
+    border-radius: 7px;
+    
+}
+.number{
+   font-size: 30pt;
+    float:right;
+    color: white;
+    padding-right: 8px;
+
+}
+.Caculator-keypad{
+  width: 288px;
+  height: 371px;
+  background-color: #000000;
+  border-radius: 7px;
+}
+.input-keys{
+  width: 75%;
+  height: 371px;
+  background-color: #000000;
+  float: left;
+  border-radius: 7px;
+}
+.input-keys2{
+  width: 25%;
+  height: 371px;
+  background-color: #000000;
+  float: right;
+}
+.a{
+    width: 60px;
+    border-radius: 30px;
+    margin-left: 10px;
+    margin-top: 23px;
+    height: 60px;
+    background-color: #BDC3C7;
+    border: none;
+    font-size: 23pt;
+}
+.a2{
+    width: 60px;
+    border-radius: 30px;
+    margin-left: 10px;
+    height: 60px;
+    margin-top: 23px;
+    background-color: #F60;
+    border: none;
+    color: oldlace;
+    font-size: 23pt;
+}
+.b{
+  width: 60px;
+  border-radius: 30px;
+  margin-left: 10px;
+  margin-top: 10px;
+  height: 60px;
+  border: none;
+  font-size: 23pt;
+  background-color: #454d5a;
+  color: oldlace;
+
+}
+.b2{
+  width: 60px;
+  border-radius: 30px;
+  margin-left: 10px;
+  margin-top: 10px;
+  height: 60px;
+  background-color: #F60;
+  color: oldlace;
+    border: none;
+    font-size: 23pt;
+}
+.c{
+  width: 60px;
+  border-radius: 30px;
+  margin-left: 10px;
+  margin-top: 10px;
+  height: 60px;
+  border: none;
+  font-size: 23pt;
+  background-color: #454d5a;
+  color: oldlace;
+}
+.c2{
+  width: 60px;
+  border-radius: 30px;
+  margin-left: 10px;
+  margin-top: 10px;
+  height: 60px;
+  border: none;
+  background-color: #F60;
+  color: oldlace;
+  font-size: 23pt;
+}
+.c3{
+  width: 130px;
+  border-radius: 30px;
+  margin-left: 10px;
+  margin-top: 10px;
+  height: 60px;
+  border: none;
+  font-size: 23pt;
+  background-color: #454d5a;
+  color: oldlace;
+} 
+.a2:hover{
+  background-color: white;
+  color: tomato;
+
+}
+.b2:hover{
+  background-color: white;
+  color: tomato;
+
+}
+.c2:hover{
+  background-color: white;
+  color: tomato;
+
+}
+.a:hover{
+  background-color: white;
+}
+.b:hover{
+  background-color: silver;
+}
+.c:hover{
+  background-color: silver;
+}
+.c3:hover{
+  background-color: silver;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
